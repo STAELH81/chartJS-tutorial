@@ -46,3 +46,5 @@ If you want to change the type of graph, refer to the [documentation](https://ww
 You can interact with the graph by viewing it in a browser.
 
 Doing so, you'll be able to hover over the area and see precisely how much of the attribute set there is.
+
+***Copyright (c) 2014-2024 Chart.js Contributors***

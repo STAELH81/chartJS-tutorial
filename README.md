@@ -42,6 +42,10 @@ In the folder ***Test Files***, I integrated said files *(in the example over th
 
 If you want to change the type of graph, refer to the [documentation](https://www.chartjs.org/docs/latest) and all the **Chart Types** available and customise your graphs.
 
+## Customisation
+You can change (in the code) the "*type:*" variable to whatever you want.
+You can change labels to add more data inside your graphs.
+
 ## For the user
 You can interact with the graph by viewing it in a browser.
 
